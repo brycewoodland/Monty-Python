@@ -11,28 +11,28 @@ Write a program that reverses a string
 
 - ChatGPT helped me create this list.
 
-- [] Write a program that reverses a string
+- [ ] Write a program that reverses a string
 
-- [] Implement a basic calculator
+- [ ] Implement a basic calculator
 
-- [] Generate Fibonacci numbers up to N
+- [ ] Generate Fibonacci numbers up to N
 
-- [] Implement a queue using a list and collections.deque
+- [ ] Implement a queue using a list and collections.deque
 
-- [] Build a class-based banking system with deposit / withdrawal functionality 
+- [ ] Build a class-based banking system with deposit / withdrawal functionality 
 
-- [] Parse a log file and extract error messages
+- [ ] Parse a log file and extract error messages
 
-- [] Scrape and extract data from a website
+- [ ] Scrape and extract data from a website
 
-- [] Web Scraper: Scrape movie reviews and analyze sentiment
+- [ ] Web Scraper: Scrape movie reviews and analyze sentiment
 
-- [] Expense Tracker: Store expenses in an SQLite database with CLI interface
+- [ ] Expense Tracker: Store expenses in an SQLite database with CLI interface
 
-- [] Automated File Organizer: Move files into categorized folders
+- [ ] Automated File Organizer: Move files into categorized folders
 
-- [] ETL Pipeline: Extract Netflix data, transform, and store in a database
+- [ ] ETL Pipeline: Extract Netflix data, transform, and store in a database
 
-- [] System Monitoring Tool: Write a Python script that logs system performance 
+- [ ] System Monitoring Tool: Write a Python script that logs system performance 
 
-- [] Network packet Analyzer: Capture and analyze packets using Python (scapy)
+- [ ] Network packet Analyzer: Capture and analyze packets using Python (scapy)
